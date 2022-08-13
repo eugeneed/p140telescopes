@@ -4,7 +4,7 @@ This is my Physics 140 final.
 
 We successfully generated the Modulation Transfer Function curve of the James Webb Space Telescope’s NIR Camera using its Point Spread Function.
 
-![Modulation Transfer Function Graph](p140telescopes/Images/mtf.png)
+![Modulation Transfer Function Graph](Images/mtf.png)
 
 The write up can be found in the file [Paper.pdf](Paper.pdf)
 
